@@ -41,7 +41,7 @@ Given a viewpoint cloud, C, a region of interest, R ⇢ SE(3), and a two finger 
 
 ##### Algorithm
 
-![Algorithm1](../../static/img/Grasp_Pose_Detection_in_Point_Clouds_Algorithm1.png)
+![Algorithm1](../../static/img/Grasp_Pose_Detection_in_Point_Clouds/Algorithm1.png#pic_center)
 
 Our algorithm follows the steps shown in Algorithm 1. Step 1 preprocesses the viewpoint cloud. Step 2 identifies a region of interest (ROI), R, where the grasp will occur. Step 3 samples N (several thousand) grasp candidates from the ROI where each candidate is a 6-DOF hand pose. Step 4 encodes each grasp candidate as a stacked multi-channel image. Step 5 assigns each candidate a score using a four- layer convolutional neural network that indicates how likely the candidate is to be a grasp. Step 6 selects a grasp for execution based on the score evaluated in Step 5 and other considerations related to the suitability of the grasp.
 
