@@ -1,6 +1,6 @@
 ## KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects
 
-> 来源：2020 年 CVPR
+> Published 5 December 2019 · Computer Science · 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 >
 > [ArXiv](https://arxiv.org/abs/1912.02805)
 >

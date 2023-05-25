@@ -1,5 +1,7 @@
 ## Grasp Pose Detection in Point Clouds
 
+> Published 29 June 2017 · Computer Science · The International Journal of Robotics Research
+>
 > [ArXiv](https://arxiv.org/abs/1706.09911)
 >
 > [Github](https://github.com/atenpas/gpd)
