@@ -1,5 +1,6 @@
 ## Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis
-
+> Published 4 January 2023 · Computer Science · ArXiv
+>
 > [ArXiv](https://arxiv.org/abs/2301.01441)
 >
 > [Github](https://github.com/wrslab/tubedet)
