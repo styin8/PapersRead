@@ -3,6 +3,7 @@
 #### 2023
 - [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](GraspDetect/note/Automatically_Prepare_Training_Data_for_YOLO_Using_Robotic_In-Hand_Observation_and_Synthesis.md)
 - [Instance-wise Grasp Synthesis for Robotic Grasping](GraspDetect/note/Instance_wise_Grasp_Synthesis_for_Robotic_Grasping.md)
+- [AAGDN: Attention-Augmented Grasp Detection Network Based on Coordinate Attention and Effective Feature Fusion Method](GraspDetect/note/AAGDN_Attention-Augmented_Grasp_Detection_Network_Based_on_Coordinate_Attention_and_Effective_Feature_Fusion_Method.md)
 #### 2022
 - [A Novel Generative Convolutional Neural Network for Robot Grasp Detection on Gaussian Guidance](GraspDetect/note/A_Novel_Generative_Convolutional_Neural_Network_for_Robot_Grasp_Detection_on_Gaussian_Guidance.md)
 - [A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions](GraspDetect/note/A_Robotic_Visual_Grasping_Design_Rethinking_Convolution_Neural_Network_with_High_Resolutions.md)
