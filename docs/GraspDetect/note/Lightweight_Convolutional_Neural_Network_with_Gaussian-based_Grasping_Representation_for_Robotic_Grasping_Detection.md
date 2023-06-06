@@ -3,6 +3,7 @@
 ## Efficient Grasp Detection Network With Gaussian-Based Grasp Representation for Robotic Manipulation (IEEE/ASME Transactions on Mechatronics)
 
 > Published 25 January 2021 · Computer Science · ArXiv 
+>
 > Published 2022 · Computer Science · IEEE/ASME Transactions on Mechatronics
 >
 > [IEEE](https://ieeexplore.ieee.org/document/9990918)
